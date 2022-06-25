@@ -1,5 +1,5 @@
-### git-config
-### Действия после установки git
+# git-config
+## Действия после установки git
 ### посмотреть настройки
 ````shell
 git config --global user.name “имя”
